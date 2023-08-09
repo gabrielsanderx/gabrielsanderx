@@ -58,7 +58,7 @@
 </head>
 <body>
     <div class="center">
-        <h1>Quer namorar comigo?</h1>
+        <h1>ACEITA VIVER O RESTO DA SUA VIDA COMIGO?</h1>
     </div>
     <div class="img"></div>
     <div class="btn">
